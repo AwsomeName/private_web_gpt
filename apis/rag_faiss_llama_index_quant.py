@@ -9,7 +9,7 @@ class RAGStringQueryEngine():
             self,
             # model_path: str = "./models/chatglm3-6b-32k",
             emb_path: str = "./models/all-MiniLM-L6-v2",
-            model_path = "./models/NPC0/chatglm3-6b-32k-int4/chatglm3-32k-ggml-q4_0.bin",
+            model_path = "./models/chatglm3-6b-32k-int4/chatglm3-32k-ggml-q4_0.bin",
             faiss_demension: int = 512,
             # PERSIST_DIR: str = "./storage",
             ) -> None:
