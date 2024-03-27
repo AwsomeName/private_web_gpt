@@ -57,3 +57,8 @@ python apis/ppeter_search_api.py
 正式运行
 
 ```bash run.sh```
+
+
+# 后续计划
+【】阅读图片
+【】多模态问答
