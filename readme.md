@@ -63,5 +63,5 @@ python apis/ppeter_search_api.py
 【】阅读图片
 【】多模态问答
 
-欢饮关注公众号
-![image](./images/公众号二维码.jpeg)
+欢迎关注公众号
+![image](./images/er.jpeg)
